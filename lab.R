@@ -1,7 +1,7 @@
 #' ---
 #' title: "Data Science Methods, Lab for Week 2: Git"
-#' author: "Your Name"
-#' email: Your Email
+#' author: Alex Dayer
+#' email: adayer@ucmerced.edu
 #' colorlinks: true
 #' output:
 #'   pdf_document: default
@@ -36,8 +36,10 @@ opts_chunk$set(out.width='60%', echo=FALSE, fig.align='center')
 #' 3. Edit `lab.R` again, making another round of changes.  Add and commit the changes to your working machine. In the commit message, put something like "problem 1 step 3." 
 #' 4. Push the repo back up to GitHub.  
 #' 
-Problem 1 step 2 
-Problem 1 step 3
+#Problem 1 step 2 
+#Problem 1 step 3
+
+problem 1 step 2 part 2
 
 #' # Problem 2 #
 #' Now we'll review the history on GitHub, and retrieve an identifier for a commit from the history.  
@@ -54,7 +56,9 @@ include_graphics(file.path('img', 'history.png'))
 include_graphics(file.path('img', 'hash.png'))
 
 #'
+#5c0bd7b
 
+#f57f1d8
 
 #' # Problem 3 #
 #' 1. Back on your working machine, enter the following into the command line, pasting your hash in place of the example. 
